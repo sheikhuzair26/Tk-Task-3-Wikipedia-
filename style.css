@@ -1,0 +1,132 @@
+header {
+    font-size: 12px;
+    border: 1px;
+    border-top-color: #e2b7e2;
+    border-top-style: solid;
+    padding-top: 10px;
+    background-color: whitesmoke;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.Nav-row-1 {
+    float: right;
+}
+
+.ul-row-1 {
+    display: flex;
+}
+
+.li-row-1 {
+    list-style: none;
+    padding-right: 10px;
+}
+
+.searchpic {
+    height: 14px;
+    margin-left: -28px;
+}
+
+.wikipic {
+    height: 170px;
+    position: absolute;
+    top: 10px;
+}
+
+p {
+    font-size: 12px;
+    display: inline;
+}
+
+.paragraph {
+    font-size: 15px;
+    display: inline;
+    text-align: justify;
+    white-space: pre-line;
+    word-spacing: 4px;
+    font-family: sans-serif;
+}
+
+.Rashidbio {
+    border: 1px;
+    position: absolute;
+    border-style: solid;
+    height: 557px;
+    width: 353px;
+    right: 23px;
+    top: 4px;
+}
+
+.Rashidname {
+    display: block;
+    background-color: darkgreen;
+    color: white;
+    text-align: center;
+}
+
+.Rashidpic {
+    position: absolute;
+    right: 116px;
+    height: 232px;
+}
+
+.hr1 {
+    margin-top: 232;
+}
+
+.Rashidtitles {
+    border: 0px;
+    position: absolute;
+    height: 300px;
+    width: 170px;
+    left: 3px;
+    top: 257px;
+    border-style: solid;
+}
+
+.Explain {
+    border: 0px;
+    position: absolute;
+    height: 300px;
+    width: 230px;
+    right: 1px;
+    top: 257px;
+    border-style: solid;
+}
+
+.contents {
+    border: 1px;
+    position: absolute;
+    height: 224px;
+    width: 344px;
+    top: 350px;
+    border-style: solid;
+}
+
+.paragraph2 {
+    font-size: 15px;
+    word-spacing: 4px;
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+.medalbox {
+    border: 4px;
+    border-color: green;
+    position: absolute;
+    height: 460px;
+    width: 207px;
+    border-style: double;
+    right: 18px;
+}
+
+footer {
+    background-color: whitesmoke;
+}
+
+.footerimages {
+    position: absolute;
+    right: 2px;
+}
